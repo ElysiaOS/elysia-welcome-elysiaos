@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+  <gresource prefix="/org/elysiaos/welcome">
+    <file>elyoslogo1.png</file>
+    <file>elyoslogo2.png</file>
+    <file>light.png</file>
+    <file>dark.png</file>
+    <file>updater.png</file>
+    <file>settings.png</file>
+    <file>store.png</file>
+  </gresource>
+</gresources>
